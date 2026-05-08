@@ -1,0 +1,18 @@
+{
+  "random_seed": 42,
+  "n_users": 10000,
+  "n_experiment_rows": 10005,
+  "n_unique_users_in_experiment": 10000,
+  "overall_conversion_rate": 0.1594,
+  "n_subscriptions": 1594,
+  "conversion_by_treatment": {
+    "control": 0.1689,
+    "variant_high": 0.1446,
+    "variant_mid": 0.1645
+  },
+  "subscriber_churn_rate": 0.842534504391468,
+  "median_ltv_usd_approx": 179.675,
+  "median_months_active": 17.0,
+  "refund_share": 0.07026348808030113,
+  "runtime_seconds": 0.232
+}
